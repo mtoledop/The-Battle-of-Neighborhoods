@@ -1,0 +1,2 @@
+## Introduction/Business Problem
+An investment group wants to set up a chain of gyms with a revolutionary concept in Andalusia. As part of their initial plan they want to locate their first headquarters in Seville (the capital) in a place where there are many gym users to be able to attract them.
